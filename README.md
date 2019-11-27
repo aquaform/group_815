@@ -5,7 +5,7 @@
 4.  [Ковардинова Екатерина](https://github.com/Katyano "Ковардинова Екатерина") - 1
 5.  [Кожуркин Денис](https://github.com/languedock "Кожуркин Денис")
 6.  [Козуляева Валерия](https://github.com/scorpionLera "Козуляева Валерия")
-7.  [Кузнецов Никита]
+7.  [Кузнецов Никита](https://github.com/JoskiY "Кузнецов Никита") - 1
 8.  [Кузяков Егор](https://github.com/Jgorki "Кузяков Егор")
 9.  [Кульков Юрий](https://github.com/yuriy2828 "Кульков Юрий") - 1
 10. [Лаврухин Вадим](https://github.com/shrmy "Лаврухин Вадим") - 1
