@@ -1,4 +1,4 @@
-0.  [Анисимов Максим]
+0.  [Анисимов Максим](https://github.com/MaximAnisimov "Анисимов Максим") - 1,2
 1.  [Ахмедьянов Тимур](https://github.com/eessook "Ахмедьянов Тимур") - 1
 2.  [Галиченко Артём](https://github.com/Galich186 "Галиченко Артём")
 3.  [Каргополов Никита](https://github.com/KaktusPank "Каргополов Никита")
